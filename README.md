@@ -30,7 +30,7 @@ The player controls a sponge (sphere) using the mouse to clean dirt from a windo
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/WindowCleaner.git
+   git clone https://github.com/NSK-394/WindowCleaner.git
    ```
 2. Open the project in Unity Hub
 3. Open `SampleScene`
